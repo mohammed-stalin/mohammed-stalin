@@ -1,9 +1,11 @@
-
-# Hi 👋, I’m **Abdelmajid Benjelloun**!
+# Hi 👋, I’m **Mohammed AACHABI**!
 
 <br>  
 Passionate AI and Data Science enthusiast currently pursuing a Master’s degree in Artificial Intelligence and Data Sciences. I specialize in building AI-driven solutions, with experience in Python, MERN Stack, Big Data, and NLP.<br>
 
+<div align="center">
+
+</div>
 
 <div align="center">
 
@@ -20,10 +22,10 @@ Passionate AI and Data Science enthusiast currently pursuing a Master’s degree
 </div>
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelmajidben&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-stalin&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
     <div style="display: flex; justify-content: center; margin-top: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Abdelmajidben&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelmajidben&theme=shadow_blue&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mohammed-stalin&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-stalin&theme=shadow_blue&hide_border=false" alt="GitHub Streak" />
     </div>
   </div>
 </div>
