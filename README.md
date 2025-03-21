@@ -95,7 +95,7 @@ Passionate AI and Data Science enthusiast currently pursuing a Master's degree i
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-aachabi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](aachabimohammed.netlify.app/#about)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://aachabimohammed.netlify.app/#about)
 
 ---
 
