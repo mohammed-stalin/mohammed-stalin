@@ -1,7 +1,7 @@
 # 👋 Mohammed AACHABI
 
 ## About Me
-Passionate AI and Data Science enthusiast currently pursuing a Master's degree in Artificial Intelligence and Data Sciences. I specialize in building AI-driven solutions, with deep experience in Python, MERN Stack, Big Data technologies, and Natural Language Processing.
+Passionate AI and Data Science enthusiast, with a Master's degree in Artificial Intelligence and Data Sciences. I specialize in building AI-driven solutions, with deep experience in Python, MERN Stack, Big Data technologies, and Natural Language Processing.
 
 ## 🎓 Education
 - **Master's Degree** in Artificial Intelligence and Data Sciences (Current)
